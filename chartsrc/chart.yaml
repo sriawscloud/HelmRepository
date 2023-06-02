@@ -1,0 +1,8 @@
+apiVersion: v2
+name: sriwebapp
+description: Helm chart for the webapp sample project
+type: web-application
+
+version: 0.1.0
+
+appVersion: 0.1.0
